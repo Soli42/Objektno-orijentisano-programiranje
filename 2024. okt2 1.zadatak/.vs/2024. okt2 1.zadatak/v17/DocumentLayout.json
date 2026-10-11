@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mateja\\source\\repos\\2024. okt2 1.zadatak\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4B6C22-83D0-43EE-A6C0-D16A395B1EDB}|2024. okt2 1.zadatak.vcxproj|C:\\Users\\Mateja\\source\\repos\\2024. okt2 1.zadatak\\IspitniMaterijal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8B4B6C22-83D0-43EE-A6C0-D16A395B1EDB}|2024. okt2 1.zadatak.vcxproj|solutionrelative:IspitniMaterijal.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4B6C22-83D0-43EE-A6C0-D16A395B1EDB}|2024. okt2 1.zadatak.vcxproj|C:\\Users\\Mateja\\source\\repos\\2024. okt2 1.zadatak\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8B4B6C22-83D0-43EE-A6C0-D16A395B1EDB}|2024. okt2 1.zadatak.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4B6C22-83D0-43EE-A6C0-D16A395B1EDB}|2024. okt2 1.zadatak.vcxproj|C:\\Users\\Mateja\\source\\repos\\2024. okt2 1.zadatak\\IspitniMaterijal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8B4B6C22-83D0-43EE-A6C0-D16A395B1EDB}|2024. okt2 1.zadatak.vcxproj|solutionrelative:IspitniMaterijal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4B6C22-83D0-43EE-A6C0-D16A395B1EDB}|2024. okt2 1.zadatak.vcxproj|C:\\Users\\Mateja\\source\\repos\\2024. okt2 1.zadatak\\IspitPriprema.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8B4B6C22-83D0-43EE-A6C0-D16A395B1EDB}|2024. okt2 1.zadatak.vcxproj|solutionrelative:IspitPriprema.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4B6C22-83D0-43EE-A6C0-D16A395B1EDB}|2024. okt2 1.zadatak.vcxproj|C:\\Users\\Mateja\\source\\repos\\2024. okt2 1.zadatak\\Lekcija.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8B4B6C22-83D0-43EE-A6C0-D16A395B1EDB}|2024. okt2 1.zadatak.vcxproj|solutionrelative:Lekcija.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4B6C22-83D0-43EE-A6C0-D16A395B1EDB}|2024. okt2 1.zadatak.vcxproj|C:\\Users\\Mateja\\source\\repos\\2024. okt2 1.zadatak\\Lekcija.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8B4B6C22-83D0-43EE-A6C0-D16A395B1EDB}|2024. okt2 1.zadatak.vcxproj|solutionrelative:Lekcija.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4B6C22-83D0-43EE-A6C0-D16A395B1EDB}|2024. okt2 1.zadatak.vcxproj|C:\\Users\\Mateja\\source\\repos\\2024. okt2 1.zadatak\\IspitPriprema.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8B4B6C22-83D0-43EE-A6C0-D16A395B1EDB}|2024. okt2 1.zadatak.vcxproj|solutionrelative:IspitPriprema.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4B6C22-83D0-43EE-A6C0-D16A395B1EDB}|2024. okt2 1.zadatak.vcxproj|C:\\Users\\Mateja\\source\\repos\\2024. okt2 1.zadatak\\Zadatak.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8B4B6C22-83D0-43EE-A6C0-D16A395B1EDB}|2024. okt2 1.zadatak.vcxproj|solutionrelative:Zadatak.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4B6C22-83D0-43EE-A6C0-D16A395B1EDB}|2024. okt2 1.zadatak.vcxproj|C:\\Users\\Mateja\\source\\repos\\2024. okt2 1.zadatak\\Zadatak.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8B4B6C22-83D0-43EE-A6C0-D16A395B1EDB}|2024. okt2 1.zadatak.vcxproj|solutionrelative:Zadatak.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 234,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{605322a2-17ae-43f4-b60f-766556e46c87}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IspitniMaterijal.cpp",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\2024. okt2 1.zadatak\\IspitniMaterijal.cpp",
+              "RelativeDocumentMoniker": "IspitniMaterijal.cpp",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\2024. okt2 1.zadatak\\IspitniMaterijal.cpp",
+              "RelativeToolTip": "IspitniMaterijal.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-24T14:54:57.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IspitPriprema.cpp",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\2024. okt2 1.zadatak\\IspitPriprema.cpp",
+              "RelativeDocumentMoniker": "IspitPriprema.cpp",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\2024. okt2 1.zadatak\\IspitPriprema.cpp",
+              "RelativeToolTip": "IspitPriprema.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-24T15:45:36.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Lekcija.h",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\2024. okt2 1.zadatak\\Lekcija.h",
+              "RelativeDocumentMoniker": "Lekcija.h",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\2024. okt2 1.zadatak\\Lekcija.h",
+              "RelativeToolTip": "Lekcija.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-24T14:43:03.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Lekcija.cpp",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\2024. okt2 1.zadatak\\Lekcija.cpp",
+              "RelativeDocumentMoniker": "Lekcija.cpp",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\2024. okt2 1.zadatak\\Lekcija.cpp",
+              "RelativeToolTip": "Lekcija.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-24T15:25:09.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IspitPriprema.h",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\2024. okt2 1.zadatak\\IspitPriprema.h",
+              "RelativeDocumentMoniker": "IspitPriprema.h",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\2024. okt2 1.zadatak\\IspitPriprema.h",
+              "RelativeToolTip": "IspitPriprema.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-24T14:43:41.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Zadatak.cpp",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\2024. okt2 1.zadatak\\Zadatak.cpp",
+              "RelativeDocumentMoniker": "Zadatak.cpp",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\2024. okt2 1.zadatak\\Zadatak.cpp",
+              "RelativeToolTip": "Zadatak.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-24T14:42:55.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Zadatak.h",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\2024. okt2 1.zadatak\\Zadatak.h",
+              "RelativeDocumentMoniker": "Zadatak.h",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\2024. okt2 1.zadatak\\Zadatak.h",
+              "RelativeToolTip": "Zadatak.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-24T14:42:52.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IspitniMaterijal.h",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\2024. okt2 1.zadatak\\IspitniMaterijal.h",
+              "RelativeDocumentMoniker": "IspitniMaterijal.h",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\2024. okt2 1.zadatak\\IspitniMaterijal.h",
+              "RelativeToolTip": "IspitniMaterijal.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-24T14:42:30.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\2024. okt2 1.zadatak\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\2024. okt2 1.zadatak\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-24T14:39:22.101Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

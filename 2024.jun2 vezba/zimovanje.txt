@@ -1,0 +1,7 @@
+2
+Ime putnika: Mara
+Sifra sedista putnika: 4C
+
+Ime putnika: Ana
+Sifra sedista putnika: 7D
+

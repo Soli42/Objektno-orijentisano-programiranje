@@ -1,0 +1,18 @@
+﻿  Fabrika.cpp
+  Sokovi.cpp
+C:\Users\Mateja\source\repos\2025.sept 2.zadatak\Sokovi.h(31,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'Sokovi.cpp')
+  
+C:\Users\Mateja\source\repos\2025.sept 2.zadatak\Sokovi.cpp(13,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Mateja\source\repos\2025.sept 2.zadatak\Sokovi.cpp(29,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Mateja\source\repos\2025.sept 2.zadatak\Sokovi.cpp(39,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  main.cpp
+C:\Users\Mateja\source\repos\2025.sept 2.zadatak\Sokovi.h(31,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'main.cpp')
+  
+C:\Users\Mateja\source\repos\2025.sept 2.zadatak\main.cpp(4,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Mateja\source\repos\2025.sept 2.zadatak\main.cpp(44,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Mateja\source\repos\2025.sept 2.zadatak\main.cpp(44,40): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Mateja\source\repos\2025.sept 2.zadatak\main.cpp(44,45): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating Code...
+  2025.sept 2.zadatak.vcxproj -> C:\Users\Mateja\source\repos\2025.sept 2.zadatak\x64\Debug\2025.sept 2.zadatak.exe

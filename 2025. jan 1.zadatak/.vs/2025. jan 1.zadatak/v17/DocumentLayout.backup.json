@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mateja\\source\\repos\\2025. jan 1.zadatak\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B049FC19-1C01-4687-8C21-0C286CFD352B}|2025. jan 1.zadatak.vcxproj|C:\\Users\\Mateja\\source\\repos\\2025. jan 1.zadatak\\ParLezaljki.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B049FC19-1C01-4687-8C21-0C286CFD352B}|2025. jan 1.zadatak.vcxproj|solutionrelative:ParLezaljki.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B049FC19-1C01-4687-8C21-0C286CFD352B}|2025. jan 1.zadatak.vcxproj|C:\\Users\\Mateja\\source\\repos\\2025. jan 1.zadatak\\ParLezaljkiSaDodatkom.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B049FC19-1C01-4687-8C21-0C286CFD352B}|2025. jan 1.zadatak.vcxproj|solutionrelative:ParLezaljkiSaDodatkom.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B049FC19-1C01-4687-8C21-0C286CFD352B}|2025. jan 1.zadatak.vcxproj|C:\\Users\\Mateja\\source\\repos\\2025. jan 1.zadatak\\ParLezaljkiSaDodatkom.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B049FC19-1C01-4687-8C21-0C286CFD352B}|2025. jan 1.zadatak.vcxproj|solutionrelative:ParLezaljkiSaDodatkom.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B049FC19-1C01-4687-8C21-0C286CFD352B}|2025. jan 1.zadatak.vcxproj|C:\\Users\\Mateja\\source\\repos\\2025. jan 1.zadatak\\ParLezaljki.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B049FC19-1C01-4687-8C21-0C286CFD352B}|2025. jan 1.zadatak.vcxproj|solutionrelative:ParLezaljki.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B049FC19-1C01-4687-8C21-0C286CFD352B}|2025. jan 1.zadatak.vcxproj|C:\\Users\\Mateja\\source\\repos\\2025. jan 1.zadatak\\KaficSaPlazom.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B049FC19-1C01-4687-8C21-0C286CFD352B}|2025. jan 1.zadatak.vcxproj|solutionrelative:KaficSaPlazom.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B049FC19-1C01-4687-8C21-0C286CFD352B}|2025. jan 1.zadatak.vcxproj|C:\\Users\\Mateja\\source\\repos\\2025. jan 1.zadatak\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B049FC19-1C01-4687-8C21-0C286CFD352B}|2025. jan 1.zadatak.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B049FC19-1C01-4687-8C21-0C286CFD352B}|2025. jan 1.zadatak.vcxproj|C:\\Users\\Mateja\\source\\repos\\2025. jan 1.zadatak\\KaficSaPlazom.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B049FC19-1C01-4687-8C21-0C286CFD352B}|2025. jan 1.zadatak.vcxproj|solutionrelative:KaficSaPlazom.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{605322a2-17ae-43f4-b60f-766556e46c87}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KaficSaPlazom.h",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\2025. jan 1.zadatak\\KaficSaPlazom.h",
+              "RelativeDocumentMoniker": "KaficSaPlazom.h",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\2025. jan 1.zadatak\\KaficSaPlazom.h",
+              "RelativeToolTip": "KaficSaPlazom.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-12T15:08:34.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\2025. jan 1.zadatak\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\2025. jan 1.zadatak\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-12T15:05:59.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KaficSaPlazom.cpp",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\2025. jan 1.zadatak\\KaficSaPlazom.cpp",
+              "RelativeDocumentMoniker": "KaficSaPlazom.cpp",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\2025. jan 1.zadatak\\KaficSaPlazom.cpp",
+              "RelativeToolTip": "KaficSaPlazom.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-12T16:09:40.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ParLezaljki.cpp",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\2025. jan 1.zadatak\\ParLezaljki.cpp",
+              "RelativeDocumentMoniker": "ParLezaljki.cpp",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\2025. jan 1.zadatak\\ParLezaljki.cpp",
+              "RelativeToolTip": "ParLezaljki.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-12T15:22:54.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ParLezaljkiSaDodatkom.cpp",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\2025. jan 1.zadatak\\ParLezaljkiSaDodatkom.cpp",
+              "RelativeDocumentMoniker": "ParLezaljkiSaDodatkom.cpp",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\2025. jan 1.zadatak\\ParLezaljkiSaDodatkom.cpp",
+              "RelativeToolTip": "ParLezaljkiSaDodatkom.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADMAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-12T15:43:12.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ParLezaljkiSaDodatkom.h",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\2025. jan 1.zadatak\\ParLezaljkiSaDodatkom.h",
+              "RelativeDocumentMoniker": "ParLezaljkiSaDodatkom.h",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\2025. jan 1.zadatak\\ParLezaljkiSaDodatkom.h",
+              "RelativeToolTip": "ParLezaljkiSaDodatkom.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-12T15:09:12.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ParLezaljki.h",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\2025. jan 1.zadatak\\ParLezaljki.h",
+              "RelativeDocumentMoniker": "ParLezaljki.h",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\2025. jan 1.zadatak\\ParLezaljki.h",
+              "RelativeToolTip": "ParLezaljki.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-12T15:07:06.67Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
